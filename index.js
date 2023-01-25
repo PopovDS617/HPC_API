@@ -22,7 +22,7 @@ app.use(charactersRoutes);
 mongoose
   .connect(MONGODB_URI)
   .then((result) => {
-    app.listen(8080);
+    app.listen(process.env.PORT || 3000);
   })
   .catch((err) => {
     console.log(err);
