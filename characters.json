@@ -1,0 +1,1952 @@
+[
+  {
+    "name": "Hannah Abbott",
+    "role": "student",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Bathsheda Babbling",
+    "role": "Professor, Ancient Runes",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Ludo Bagman",
+    "role": "Head, Department of Magical Games and Sports",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Bathilda Bagshot",
+    "role": "Author, A History Of Magic",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Katie Bell",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Cuthbert Binns",
+    "role": "Professor, History of Magic",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Phineas Nigellus Black",
+    "role": "(Formerly) Headmaster of Hogwarts",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Regulus Black",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Sirius Black",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Padfoot",
+    "patronus": null
+  },
+  {
+    "name": "Amelia Bones",
+    "role": "Head, Department of Magical Law Enforcement",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Susan Bones",
+    "role": "student",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Terry Boot",
+    "role": "student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Lavender Brown",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Millicent Bulstrode",
+    "role": "student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Frank Bryce",
+    "role": "Gardener, Riddle Family",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Charity Burbage",
+    "role": "Professor, Muggle Studies",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Alecto Carrow",
+    "role": "Professor, Muggle Studies",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Amycus Carrow",
+    "role": "Professor, Dark Arts",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Reginald Cattermole",
+    "role": "Employee, Magical Maintenance Department",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Mary Cattermole",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Cho Chang",
+    "role": "Student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "swan"
+  },
+  {
+    "name": "Penelope Clearwater",
+    "role": "Student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Penny",
+    "patronus": null
+  },
+  {
+    "name": "Michael Corner",
+    "role": "Student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Crabbe",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Vincent Crabbe",
+    "role": "Student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Colin Creevey",
+    "role": "Student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dennis Creevey",
+    "role": "Student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dirk Cresswell",
+    "role": "Head, Goblin Liason Office",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Bartemius Crouch Sr.",
+    "role": "Head, Department of International Magical Cooperation",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Barty",
+    "patronus": null
+  },
+  {
+    "name": "Bartemius Crouch Jr.",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": "Barty",
+    "patronus": null
+  },
+  {
+    "name": "John Dawlish",
+    "role": "Auror",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fleur Delacour",
+    "role": "Student",
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Gabrielle Delacour",
+    "role": "Student",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dedalus Diggle",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Amos Diggory",
+    "role": "Employee, Department for the Regulation and Control of Magical Creatures",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Cedric Diggory",
+    "role": "Student",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Elphias Doge",
+    "role": "Special Advisor to the Wizengamot",
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Antonin Dolohov",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Aberforth Dumbledore",
+    "role": "Owner, Hog's Head Inn",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Ab",
+    "patronus": "goat"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "role": "Headmaster, Hogwarts",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "phoenix"
+  },
+  {
+    "name": "Ariana Dumbledore",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dudley Dursley",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Marjorie Dursley",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Marge",
+    "patronus": null
+  },
+  {
+    "name": "Petunia Dursley",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Vernon Dursley",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Marietta Edgecombe",
+    "role": "student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Everard",
+    "role": "(former) Headmaster, Hogwarts",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Arabella Figg",
+    "role": "Dealer of cross-bread cats and kneazies",
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Argus Filch",
+    "role": "Caretaker, Hogwarts",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Justin Finch-Fletchley",
+    "role": "student",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Seamus Finnigan",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Marcus Flint",
+    "role": "student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Nicolas Flamel",
+    "role": "Alchemist",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Mundungus Fletcher",
+    "role": "Dealer of Wizarding Artifacts",
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Dung",
+    "patronus": null
+  },
+  {
+    "name": "Filius Flitwick",
+    "role": "Professor, Charms",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Cornelius Fudge",
+    "role": "Minister of Magic",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Marvolo Gaunt",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Merope Gaunt",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Morfin Gaunt",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Anthony Goldstein",
+    "role": "student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Goyle Sr.",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Gregory Goyle",
+    "role": "student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Hermione Granger",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "otter"
+  },
+  {
+    "name": "Mykew Gregorovitch",
+    "role": "Wand Maker",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fenrir Greyback",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Gellert Grindelwald",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Percival Graves",
+    "patronus": null
+  },
+  {
+    "name": "Wilhelmina Grubbly-Plank",
+    "role": "Professor, Care of Magical Creatures",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Godric Gryffindor",
+    "role": "Founder, Hogwarts",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Rubeus Hagrid",
+    "role": "Groundkeeper, Professor, Care of Magical Creatures",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Rolanda Hooch",
+    "role": "Quidditch Referee ",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Mafalda Hopkirk",
+    "role": "Assistant, mproper Use of Magic Office",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Helga Hufflepuff",
+    "role": "Founder, Hogwarts",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Angelina Johnson",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Lee Jordan",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": "River",
+    "patronus": null
+  },
+  {
+    "name": "Bertha Jorkins",
+    "role": "Department of Magical Games and Sports Employee",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Igor Karkaroff",
+    "role": "Headmaster, Durmstrang",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Viktor Krum",
+    "role": "Bulgarian Quiddich Seeker",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Bellatrix Lestrange",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": "Bella",
+    "patronus": null
+  },
+  {
+    "name": "Rabastan Lestrange",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Rodolphus Lestrange",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Gilderoy Lockhart",
+    "role": "Professor, Defense Against the Dark Arts",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Alice Longbottom",
+    "role": "Auror (formerly)",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Frank Longbottom",
+    "role": "Auror (formerly)",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Augusta Longbottom",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Neville Longbottom",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Luna Lovegood",
+    "role": "student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": "Loony Lovegood",
+    "patronus": "hare"
+  },
+  {
+    "name": "Xenophilius Lovegood",
+    "role": "Editor, The Quibbler",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Xeno",
+    "patronus": null
+  },
+  {
+    "name": "Remus Lupin",
+    "role": "Professor, Defence Against the Dark Arts",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Moony",
+    "patronus": "wolf"
+  },
+  {
+    "name": "Walden Macnair",
+    "role": "Executioner, Committee of Disposal of Dangerous Creatures",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Draco Malfoy",
+    "role": "student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Lucius Malfoy",
+    "role": "School Governer of Hogwarts",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Narcissa Malfoy",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Madam Malkin",
+    "role": "Shop Owner, Madam Malkin's Robes for All Occasions",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Olympe Maxime",
+    "role": "Headmistress, Beauxbatons Academy of Magic",
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Ernest Macmillan",
+    "role": "student",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": "Ernie",
+    "patronus": "boar"
+  },
+  {
+    "name": "Minerva McGonagall",
+    "role": "Professor, Transfiguration",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "cat"
+  },
+  {
+    "name": "Alastor Moody",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Mad-Eye",
+    "patronus": null
+  },
+  {
+    "name": "Theodore Nott",
+    "role": "student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Garrick Ollivander",
+    "role": "Wandmaker",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Pansy Parkinson",
+    "role": "student",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Padma Patil",
+    "role": "student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Parvati Patil",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Peter Pettigrew",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": "Wormtail",
+    "patronus": null
+  },
+  {
+    "name": "Antioch Peverell",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Cadmus Peverell",
+    "role": "Owner of the resurrection stone",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Ignotus Peverell",
+    "role": "Owner of the invisibility cloak",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Irma Pince",
+    "role": "Librarian, Hogwarts",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Sturgis Podmore",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Poppy Pomfrey",
+    "role": "Matron, Hogwarts Hospital Wing",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Harry Potter",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": "The Boy Who Lived",
+    "patronus": "stag"
+  },
+  {
+    "name": "James Potter I",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Prongs",
+    "patronus": "stag"
+  },
+  {
+    "name": "Lily J. Potter",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "doe"
+  },
+  {
+    "name": "Ernest Prang",
+    "role": "Driver of the Knight Bus",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Ernie",
+    "patronus": null
+  },
+  {
+    "name": "Quirinus Quirrell",
+    "role": "Professor, Defence Against the Dark Arts",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Helena Ravenclaw",
+    "role": "Ravenclaw House Ghost",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Grey Lady",
+    "patronus": null
+  },
+  {
+    "name": "Rowena Ravenclaw",
+    "role": "Founder, Hogwarts",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Mary Riddle",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Thomas Riddle",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Tom Riddle Sr",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Tom Riddle",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": "Lord Voldemort",
+    "patronus": null
+  },
+  {
+    "name": "Demelza Robins",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Augustus Rockwood",
+    "role": "Unspeakable",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Albert Runcorn",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Scabior",
+    "role": "Snatcher",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Newton Scamander ",
+    "role": "Author, Fantastic Beasts and Where to Find Them",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Newt ",
+    "patronus": null
+  },
+  {
+    "name": "Rufus Scrimgeour",
+    "role": "Head of Auror Office",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Kingsley Shacklebolt",
+    "role": "Auror",
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "lynx"
+  },
+  {
+    "name": "Stanley Shunpike",
+    "role": "Conductor of the Knight Bus",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Stan ",
+    "patronus": null
+  },
+  {
+    "name": "Aurora Sinistra",
+    "role": "Professor, Astronomy",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Rita Skeeter",
+    "role": "Gossip Correspondant for the Daily Prophet",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Queen of the Quills",
+    "patronus": null
+  },
+  {
+    "name": "Horace Slughorn",
+    "role": "Professor, Potions",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Salazar Slytherin",
+    "role": "Founder, Hogwarts",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Hepzibah Smith",
+    "role": null,
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Zacharias Smith",
+    "role": "student",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Severus Snape",
+    "role": "Professor, Potions",
+    "house": "Slytherin",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": "doe"
+  },
+  {
+    "name": "Alicia Spinnet",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Pomona Sprout",
+    "role": "Professor, Herbology",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Pius Thicknesse",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dean Thomas",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Andromeda Tonks",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Nymphadora Tonks",
+    "role": "Auror",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Tonks",
+    "patronus": "wolf"
+  },
+  {
+    "name": "Edward Tonks",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Ted",
+    "patronus": null
+  },
+  {
+    "name": "Travers",
+    "role": "Ministry of Magic Official",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Sybill Trelawney",
+    "role": "Professor, Divination",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dolores Umbridge",
+    "role": "Head of the Muggle Born Registration Commission",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "persian cat"
+  },
+  {
+    "name": "Emmeline Vance",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Romilda Vane",
+    "role": null,
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Septima Vector",
+    "role": "Professor, Arithmancy",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Arthur Weasley",
+    "role": "Head, Misuse of Muggle Artifacts ",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": "weasel"
+  },
+  {
+    "name": "William Weasley",
+    "role": "Curse Breaker, Gringotts Bank",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Bill",
+    "patronus": null
+  },
+  {
+    "name": "Charles Weasley",
+    "role": "Dragonologist",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Charlie",
+    "patronus": null
+  },
+  {
+    "name": "Fred Weasley",
+    "role": "co-owner of Weasleys' Wizard Wheezes",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "George Weasley",
+    "role": "co-owner of Weasleys' Wizard Wheezes",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Ginevra Weasley",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": "Ginny",
+    "patronus": "horse"
+  },
+  {
+    "name": "Molly Weasley",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Percy Weasley",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Ronald Weasley",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": true,
+    "dumbledoresArmy": true,
+    "deathEater": false,
+    "alias": "Ron",
+    "patronus": "jack russell terrier"
+  },
+  {
+    "name": "Oliver Wood",
+    "role": "student",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Kennilworthy Whisp",
+    "role": "Author, Quiddich Through The Ages",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Corban Yaxley",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": true,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Blaise Zabini",
+    "role": null,
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Aragog",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Bane",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Beedle the Bard",
+    "role": "Fairytale Author",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Bloody Baron",
+    "role": "Slytherin House Ghost",
+    "house": "Slytherin",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Buckbeak",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Cadogan",
+    "role": "Gryffindor Tower Door Guard",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Crookshanks",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Dobby",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Errol",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fang",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fat Friar",
+    "role": "Hufflepuff House Ghost",
+    "house": "Hufflepuff",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fridfwulfa",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fat Lady",
+    "role": "Gryffindor Tower Door Guard",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fawkes",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Firenze",
+    "role": "Professor, Divination",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Fluffy",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Grawp",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Griphook",
+    "role": "Employee, Gringotts Wizarding Bank",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Hedwig",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Hokey",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Kreacher",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Magorian",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Myrtle Warren",
+    "role": "student",
+    "house": "Ravenclaw",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Moaning Myrtle",
+    "patronus": null
+  },
+  {
+    "name": "Mrs. Norris",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Great Aunt Muriel",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Nagini",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Nicholas de Mimsy-Porpington",
+    "role": "Gryffindor House Ghost",
+    "house": "Gryffindor",
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Nearly Headless Nick",
+    "patronus": null
+  },
+  {
+    "name": "Norbert",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Peeves",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Pigwidgeon",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": "Pig",
+    "patronus": null
+  },
+  {
+    "name": "Madam Rosmerta",
+    "role": "Owner, The Three Broomsticks",
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Ronan",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Trevor",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  },
+  {
+    "name": "Winky",
+    "role": null,
+    "house": null,
+    "orderOfThePhoenix": false,
+    "dumbledoresArmy": false,
+    "deathEater": false,
+    "alias": null,
+    "patronus": null
+  }
+]
