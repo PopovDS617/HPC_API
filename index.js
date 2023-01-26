@@ -3,9 +3,7 @@ const charactersRoutes = require('./routes/characters');
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
-const fs = require('fs');
-
-const MONGODB_URI = process.env.MONGODB_CONNECT_URI;
+const path = require('path');
 
 const app = express();
 
@@ -18,9 +16,13 @@ app.use((req, res, next) => {
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(charactersRoutes);
+app.use(express.static('public'));
+app.get('/', (req, res) => {
+  res.sendFile('index.html', { root: path.join(__dirname, 'public') });
+});
 
 mongoose
-  .connect(MONGODB_URI)
+  .connect(process.env.MONGODB_CONNECT_URI)
   .then((result) => {
     app.listen(process.env.PORT || 3000);
   })
