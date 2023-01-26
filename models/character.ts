@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const Schema = mongoose.Schema;
 
@@ -13,4 +13,4 @@ const characterSchema = new Schema({
   patronus: { type: String, required: true },
 });
 
-module.exports = mongoose.model('Character', characterSchema);
+export default mongoose.model('Character', characterSchema);

@@ -1,6 +1,11 @@
-const Character = require('../models/character');
+import { NextFunction, Request, Response } from 'express';
+import Character from '../models/character';
 
-exports.getCharacters = (req, res, next) => {
+export const getCharacters = (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   Character.find()
     .then((characters) => {
       res.status(200).json({

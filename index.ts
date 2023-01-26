@@ -1,9 +1,11 @@
-require('dotenv').config();
-const charactersRoutes = require('./routes/characters');
-const express = require('express');
-const mongoose = require('mongoose');
-const bodyParser = require('body-parser');
-const path = require('path');
+import dotenv from 'dotenv';
+import charactersRoutes from './routes/characters';
+import express = require('express');
+import mongoose from 'mongoose';
+import bodyParser from 'body-parser';
+import path from 'path';
+
+dotenv.config();
 
 const app = express();
 
@@ -13,8 +15,8 @@ app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
   next();
 });
-
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+//app.use(bodyParser.urlencoded({ extended: false }));
 app.use(charactersRoutes);
 app.use(express.static('public'));
 app.get('/', (req, res) => {
@@ -22,10 +24,10 @@ app.get('/', (req, res) => {
 });
 
 mongoose
-  .connect(process.env.MONGODB_CONNECT_URI)
-  .then((result) => {
+  .connect(process.env.MONGODB_CONNECT_URI as string)
+  .then(() => {
     app.listen(process.env.PORT || 3000);
   })
-  .catch((err) => {
+  .catch((err: Error) => {
     console.log(err);
   });
